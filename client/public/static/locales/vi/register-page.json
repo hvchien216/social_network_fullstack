@@ -1,0 +1,10 @@
+{
+  "text-signup": "Đăng ký",
+  "text-name": "Họ tên",
+  "text-err-name-empty": "Vui lòng nhập họ tên",
+  "text-err-email-empty": "Vui lòng nhập email",
+  "text-err-email-invalid": "Email không đúng định dạng",
+  "text-pwd": "Mật khẩu",
+  "text-err-pwd-empty": "Vui lòng nhập mật khẩu",
+  "back-to-signin-page": "Trở lại đăng nhập"
+}

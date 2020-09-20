@@ -1,0 +1,8 @@
+{
+  "text-signin": "Đăng nhập",
+  "text-err-email-empty": "Vui lòng nhập email",
+  "text-err-email-invalid": "Email không đúng định dạng",
+  "text-pwd": "Mật khẩu",
+  "text-err-pwd-empty": "Vui lòng nhập mật khẩu",
+  "text-dont-have-acc-siginup": "Chưa có tài khoản? Đăng kí tại đây"
+}

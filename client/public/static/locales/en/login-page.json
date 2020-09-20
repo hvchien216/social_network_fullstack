@@ -1,0 +1,8 @@
+{
+  "text-signin": "Sign in",
+  "text-err-email-empty": "Email not empty",
+  "text-err-email-invalid": "Incorrect email format",
+  "text-pwd": "Password",
+  "text-err-pwd-empty": "Password not empty",
+  "text-dont-have-acc-siginup": "Don't have an account? Sign up"
+}
